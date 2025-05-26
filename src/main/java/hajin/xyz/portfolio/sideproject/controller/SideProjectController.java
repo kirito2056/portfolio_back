@@ -9,6 +9,6 @@ public class SideProjectController {
 
     @RequestMapping("/numberclock")
     public String numberClock() {
-        return "numberClock/numberclock.html";
+        return "numberClock/numberClock.html";
     }
 }
